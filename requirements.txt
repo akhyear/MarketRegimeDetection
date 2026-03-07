@@ -4,4 +4,4 @@ matplotlib
 yfinance
 arch          
 hmmlearn      
-sklearn       
+scikit-learn      
